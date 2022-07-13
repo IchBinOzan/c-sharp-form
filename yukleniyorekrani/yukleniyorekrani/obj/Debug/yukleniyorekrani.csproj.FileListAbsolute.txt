@@ -1,0 +1,21 @@
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\bin\Debug\yukleniyorekrani.exe.config
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\bin\Debug\yukleniyorekrani.exe
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\bin\Debug\yukleniyorekrani.pdb
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csprojAssemblyReference.cache
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.Form1.resources
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.Properties.Resources.resources
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csproj.GenerateResource.cache
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csproj.CoreCompileInputs.cache
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.exe
+C:\Users\oozer\Dropbox\PC\Desktop\Software Development\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.pdb
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\bin\Debug\yukleniyorekrani.exe.config
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\bin\Debug\yukleniyorekrani.exe
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\bin\Debug\yukleniyorekrani.pdb
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csproj.AssemblyReference.cache
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csproj.SuggestedBindingRedirects.cache
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.Form1.resources
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.Properties.Resources.resources
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csproj.GenerateResource.cache
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.csproj.CoreCompileInputs.cache
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.exe
+C:\Users\oozer\Dropbox\PC\Desktop\SoftwareDevelopment\visual studio\Projects\yukleniyorekrani\yukleniyorekrani\obj\Debug\yukleniyorekrani.pdb
