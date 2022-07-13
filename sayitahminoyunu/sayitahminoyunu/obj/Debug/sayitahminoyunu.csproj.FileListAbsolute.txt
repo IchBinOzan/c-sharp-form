@@ -1,0 +1,10 @@
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\sayitahminoyunu.exe.config
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\sayitahminoyunu.exe
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\sayitahminoyunu.pdb
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.Form1.resources
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.Properties.Resources.resources
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.csproj.GenerateResource.cache
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.exe
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.pdb
+C:\Users\oozer\source\repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\sayitahminoyunu.csprojAssemblyReference.cache
